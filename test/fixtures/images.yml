@@ -1,0 +1,45 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  img_id: 1
+  profiel_id: 1
+  album_id: 1
+  show_id: 1
+  band_id: 1
+  title: MyText
+  link: MyString
+  desc: MyText
+  upDate: 2015-11-24
+  picDate: 2015-11-24
+  likes: MyString
+  integer: MyString
+  tags: MyText
+  eShutter: MyString
+  eAperture: MyString
+  eFocal: MyString
+  eIso: MyString
+  Eflash: MyString
+  eCamModel: MyString
+  eCamLens: MyString
+
+two:
+  img_id: 1
+  profiel_id: 1
+  album_id: 1
+  show_id: 1
+  band_id: 1
+  title: MyText
+  link: MyString
+  desc: MyText
+  upDate: 2015-11-24
+  picDate: 2015-11-24
+  likes: MyString
+  integer: MyString
+  tags: MyText
+  eShutter: MyString
+  eAperture: MyString
+  eFocal: MyString
+  eIso: MyString
+  Eflash: MyString
+  eCamModel: MyString
+  eCamLens: MyString
